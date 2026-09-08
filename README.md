@@ -53,7 +53,7 @@ Para valores superiores a 300, o LED verde é acionado.
 
 - `codigo/` – código-fonte do projeto
 - `images/` – registros da montagem e dos testes
-- `README.md` – documentação do projeto
+- `relatorio/` – relatório da prática
 
 ## Resultados
 
@@ -65,7 +65,7 @@ A simulação no Wokwi permitiu validar o funcionamento do circuito e observar d
 
 ### Simulação no Wokwi
 
-[Projeto no Wokwi](https://wokwi.com/projects/474638158914772993)
+[![Simulação no Wokwi](https://img.shields.io/badge/Simulação-Wokwi-blue?style=for-the-badge)](https://wokwi.com/projects/474638158914772993)
 
 ## Autoria
 
