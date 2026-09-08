@@ -1,4 +1,4 @@
-# Prática 2 – Sistemas Embarcados
+# AVA2 – Sistemas Embarcados
 ## Controle de Luminosidade com STM32 e LDR
 
 Projeto desenvolvido para a disciplina de Sistemas Embarcados, utilizando o microcontrolador STM32L031K6T6, sensor LDR e ambiente de simulação Wokwi.
